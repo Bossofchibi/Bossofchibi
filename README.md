@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Bossofchibi
-- 👀 I’m interested in code
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on code
-- 📫 How to reach me code
+I am an amateur programmer, and for those of you who don't know what amateur means, it means I'm new at coding and I'm bad at coding.
 
 <!---
 Bossofchibi/Bossofchibi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
